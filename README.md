@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full 
 
 - 👩‍💻 Always learning, always building!
 
-- 👨‍💻 All of my projects are available at [https://nausheenportfolio.netlify.app/](https://nausheenportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nausheenportfolio.vercel.app/](https://nausheenportfolio.vercel.app/)
 
 ## 📫 Connect with me
 <p align="left">
