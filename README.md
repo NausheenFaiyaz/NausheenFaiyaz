@@ -1,8 +1,8 @@
-![MasterHead]()
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/a2368782-49b8-48b9-bf8e-4fa4d628b265)
+
 <h1 align="center">Hi 👋, I'm Nausheen Faiyaz</h1>
 <h3 align="center">
 Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full Stack Development) student at LPU. I love building sleek, functional, and creative web experiences that combine aesthetic design with powerful functionality.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
 
 ## 🧠 About Me 
 
