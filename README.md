@@ -62,9 +62,9 @@ Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NausheenFaiyaz&show_icons=true&theme=neon">
-  </p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NausheenFaiyaz&show_icons=true&locale=en" alt="NausheenFaiyaz" /></p> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NausheenFaiyaz&show_icons=true&locale=en&theme=neon" alt="NausheenFaiyaz">
+</p>
+
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NausheenFaiyaz&theme=radical" alt="NausheenFaiyaz" />
 </p> -->
