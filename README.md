@@ -62,4 +62,4 @@ Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full 
 </p>
 
 
-![NausheenFaiyaz's Stats](https://github-readme-stats.vercel.app/api?username=NausheenFaiyaz&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![NausheenFaiyaz's Stats](https://github-readme-stats.vercel.app/api?username=NausheenFaiyaz&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&v=1)
