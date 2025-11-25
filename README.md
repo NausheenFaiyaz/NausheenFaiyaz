@@ -62,6 +62,8 @@ Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full 
 </p> 
 
 <div align="center">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/NausheenFaiyaz?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NausheenFaiyaz?cardType=github&theme=tokyonight&preferLogin=false&)](https://git.io/awesome-stats-card)
+  
 </div>
 
