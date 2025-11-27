@@ -23,6 +23,12 @@ Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full 
 <a href="https://www.linkedin.com/in/nausheen-faiyaz-547713300/" target="blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80">
 </a>
+<a href="https://x.com/codeXninjaDev" target="blank">
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80"> -->
+  
+  <img src="https://github.com/user-attachments/assets/f65ad865-c6c0-4e57-96b0-a70bb59bf1c1" width="120">
+
+</a>
 </p>
 
 ## Languages and Tools
