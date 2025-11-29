@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full 
 
 - 👩‍💻 Always learning, always building!
 
-- 👨‍💻 All of my projects are available at [https://nausheenportfolio.vercel.app/](https://nausheenportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://nausheenportfolio.vercel.app/"> <img src="https://nausheenportfolio.vercel.app/logo/Avatar.webp" width="100"> </a>
 
 ## 📫 Connect with me
 <p align="left">
@@ -25,6 +25,9 @@ Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full 
 </a>
 <a href="https://x.com/codeXninjaDev" target="blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80">
+</a>
+<a href="https://nausheenportfolio.vercel.app/">
+  <img src="https://nausheenportfolio.vercel.app/logo/ninja1.png" width="80">
 </a>
 </p>
 
