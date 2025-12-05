@@ -61,13 +61,17 @@ Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full 
   <img src="https://komarev.com/ghpvc/?username=NausheenFaiyaz&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="NausheenFaiyaz" />
 </p>
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NausheenFaiyaz&show_icons=true&locale=en&layout=compact&theme=holi&card_width=350px&v=1" alt="NausheenFaiyaz" />
-</p> 
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NausheenFaiyaz&theme=tokyonight)
+  
+</div> 
 
 <div align="center">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NausheenFaiyaz?cardType=github&theme=tokyonight&preferLogin=false&)](https://git.io/awesome-stats-card)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NausheenFaiyaz&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NausheenFaiyaz&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NausheenFaiyaz&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NausheenFaiyaz&theme=tokyonight&utcOffset=8)
   
 </div>
-
