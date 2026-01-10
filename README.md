@@ -74,6 +74,10 @@ Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NausheenFaiyaz&theme=tokyonight">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NausheenFaiyaz&theme=tokyonight">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NausheenFaiyaz&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NausheenFaiyaz&theme=tokyonight&utcOffset=8"
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NausheenFaiyaz&theme=tokyonight&utcOffset=8">
+
+
+
+<!-- <img src="https://github-stats-alpha.vercel.app/api?username=NausheenFaiyaz&cc=000&tc=fff&ic=fff&bc=000"> -->
   
 </div>
