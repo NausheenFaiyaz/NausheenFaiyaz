@@ -1,6 +1,9 @@
-![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/a2368782-49b8-48b9-bf8e-4fa4d628b265)
+![Banner](https://github.com/user-attachments/assets/9c71b8d5-3935-41e1-b903-e518f84c3f06)
 
 <h1 align="center">Hi 👋, I'm Nausheen Faiyaz</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NausheenFaiyaz&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="NausheenFaiyaz" />
+</p>
 <h3 align="center">
 Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full Stack Development) student at LPU. I love building sleek, functional, and creative web experiences that combine aesthetic design with powerful functionality.</h3>
 
@@ -57,9 +60,6 @@ Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman" width="200"/>
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NausheenFaiyaz&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="NausheenFaiyaz" />
-</p>
   
 <div align="center">
 
