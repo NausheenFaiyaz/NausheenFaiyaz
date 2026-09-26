@@ -6,17 +6,15 @@ Welcome to my GitHub! I'm a passionate Web Developer, Programmer, and MCA (Full 
 
 ## 🧠 About Me 
 
-- 🎓 BCA Graduate from SNS College (2021–2024)
+- 🎓 MCA student specializing in Full Stack Web Development
 
-- 💻 Currently pursuing MCA with a specialization in Full Stack Development at LPU
+- 💻 Building with JavaScript, TypeScript, React, Node.js & PostgreSQL
 
-- 🔨 Tech Enthusiast | Frontend Lover | JavaScript Junkie
+- 🚀 Building projects, learning by doing
 
-- 🌸 Founder of *codeXninja*
+- 🌱 Currently diving deeper into JavaScript internals and backend development
 
-- 👩‍💻 Always learning, always building!
-
-- 👨‍💻 All of my projects are available at
+- 🔗 All of my projects are available at
 
 <img src="https://www.freeiconspng.com/uploads/white-curved-arrow-transparent-11.png" width="80"> <a href="https://nausheenportfolio.vercel.app/" target="_blank" style="display:flex; align-item:center; justify-content:center;"> <img src="https://nausheenportfolio.vercel.app/logo/Avatar.webp" width="100">
 </a>
